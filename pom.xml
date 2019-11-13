@@ -6,7 +6,7 @@
 	<groupId>es.macero.dev</groupId>
 	<artifactId>mvc-tests</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>mvc-tests</name>
 	<description>Sample project comparing MVC test strategies in Spring Boot</description>
